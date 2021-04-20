@@ -8,4 +8,4 @@ spring:
 eureka:
   client:
     register-with-eureka: false # 자신은 등록하지 않음
-    fetch-registry: false
+    fetch-registry: false       # 외부에서 검색 가능
